@@ -24,13 +24,25 @@
 </div>
 <div class="grid grid-cols-3 gap-4">
     <div>
-
     </div>
     <div>
-        <h1 class="text-3xl">
+        <h1 class="text-3xl text-center">
             Article Hydro HQ
         </h1>
     </div>
+    <div></div>
+</div>
+<div class="grid grid-cols-5 gap-4 text-center">
+    <div></div>
+    <div>
+        <p>bt-1</p>
+    </div>
+    <div></div>
+    <div>
+        <p>bt-1</p>
+    </div>
+    <div></div>
+
 </div>
 
 
