@@ -1,20 +1,17 @@
 <script>
-    import aboutUsBlocks from 'card.svelte';
+    import AboutUs from 'card.svelte';
+  </script>
   
-  const aboutUsBlocks = [
-    {
-      name: 'John Doe',
-      functionText: 'Founder and CEO',
-      introduction: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.'
-    },
-    {
-      name: 'Jane Smith',
-      functionText: 'Marketing Director',
-      introduction: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.'
-    }
-  ];
-</script>
-
-<aboutUsBlocks {aboutUsBlocks} />
-
+  <AboutUs 
+    name="John Doe" 
+    functionText="Founder and CEO" 
+    introduction="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+  />
+  
+  <AboutUs 
+    name="Jane Smith" 
+    functionText="Marketing Director" 
+    introduction="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+  />
+  
   
