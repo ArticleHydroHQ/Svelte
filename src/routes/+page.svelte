@@ -1,7 +1,7 @@
 <script>
     import Icon from "$lib/assets/logo.png"
  </script>
-<div class="w-screen h-screen">
+<div class="grid w-screen h-screen">
     <div class="grid grid-cols-2 gap-4">
             <div>
             <span class="text-zinc-50 text-xl ">
