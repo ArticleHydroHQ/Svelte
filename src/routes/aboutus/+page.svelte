@@ -7,13 +7,9 @@
   
   <div class="flex flex-wrap -mx-4">
     {#each members as member}
-    <div class="rounded-md border-gray-50">
-        <div >
-            <img class="rounded-full" src="{member.photo} alt={member.name}">
-        </div>
-        <div>
-            <p> {member.name}</p>
-        </div>
+    <div class="rounded-md border-gray-500">
+
+    <p>{member.function}</p>
     </div>
     {/each}
   </div>
