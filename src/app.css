@@ -1,9 +1,10 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+*
 body{
     background-color: black;
 }
-p,h1 ,h2 ,h3 ,h4 ,h5, li{
+p,h1 ,h2 ,h3 ,h4 ,h5, li, button{
 color: white;
 }
