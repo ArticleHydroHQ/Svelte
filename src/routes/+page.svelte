@@ -1,6 +1,5 @@
 <script>
     import Icon from "$lib/assets/logo.png"
-    
  </script>
 <div class="grid w-screen h-screen">
     <div class="grid grid-cols-2 gap-4">

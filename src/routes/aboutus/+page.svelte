@@ -1,4 +1,3 @@
-
 <script>
     import { members } from './members.js';
   </script>

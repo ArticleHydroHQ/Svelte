@@ -1,4 +1,4 @@
-// members.js
+
 export const members = [
     {
       name: 'Dobbie',
