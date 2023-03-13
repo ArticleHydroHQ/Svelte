@@ -1,7 +1,7 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
-
+/*you can ignore those tailwind errors*/
 body{
     background-color: black;
 }
