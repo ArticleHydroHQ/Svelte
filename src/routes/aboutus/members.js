@@ -2,7 +2,7 @@
 export const members = [
     {
       name: 'Dobbie',
-      description: 'I am Dobbie, founder of AHHQ progamer, article writer',
+      description: "Hello! I'm Dobbie. I like progaming, and playing Minecraft. And I am the founder of Article Hydro HQ!",
       function: 'founder',
       photo: 'https://cdn.discordapp.com/avatars/820255805257023498/74d5106b0e3be86c8abcd3e6dbbfd34e.webp?size=4096'
     },
@@ -14,8 +14,8 @@ export const members = [
     },
     {
       name: 'Soapy7261',
-      description: 'Nam tincidunt nulla eu mauris faucibus feugiat. Sed fringilla nisl eu nisi efficitur.',
-      function: 'Article Writer and Devolper',
+      description:"Hey! I'm Soapy7261. Most people call me Soapy, I make discord bots and write articles at AHHQ, among other sideprojects I do",
+      function: 'Article Writer',
       photo: 'https://cdn.discordapp.com/avatars/513072262409355274/a_7a69967b586851f3ee7ce53bf80835ac.gif?size=4096'
     }
   ];
