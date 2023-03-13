@@ -1,3 +1,7 @@
+<script>
+    import Icon from "$lib/assets/logo.png"
+ </script>
+
 <div class="grid grid-cols-2 gap-4">
         <div>
         <span class="text-zinc-50 text-xl ">
@@ -16,7 +20,7 @@
         <!--empy-->
     </div>
     <div>
-        <p> logo here </p>
+        <img src={Icon} alt="logo"/>
     </div>
     <div>
         <!--empy-->
@@ -26,8 +30,8 @@
     <div>
     </div>
     <div>
-        <h1 class="text-3xl text-center">
-            Article Hydro HQ
+        <h1 class="text-2xl text-center">
+         Minecraft server info for you
         </h1>
     </div>
     <div></div>
