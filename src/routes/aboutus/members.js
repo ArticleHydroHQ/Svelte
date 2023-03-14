@@ -19,7 +19,7 @@ export const members = [
       description:"Hey! I'm Soapy7261. Most people call me Soapy, I make discord bots and write articles at AHHQ, among other sideprojects I do",
       function: 'Article Writer',
       photo: 'https://cdn.discordapp.com/avatars/513072262409355274/a_7a69967b586851f3ee7ce53bf80835ac.gif?size=256',
-      color: ''
+      color: 'border-sky-500'
     },
 
   ];
