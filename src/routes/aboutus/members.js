@@ -18,5 +18,6 @@ export const members = [
       function: 'Article Writer',
       photo: 'https://cdn.discordapp.com/avatars/513072262409355274/a_7a69967b586851f3ee7ce53bf80835ac.gif?size=256'
     },
+
   ];
   
