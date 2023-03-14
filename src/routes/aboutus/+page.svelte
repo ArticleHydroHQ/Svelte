@@ -14,8 +14,11 @@
   </div>-->
 <div class="flex row  flex-wrap ">
 {#each members as member }
-  <div class=" rounded-md border-4">
-    <img class="rounded-full" src={member.photo} alt={member.name}>    
+  <div class=" rounded-md border-4 text-center">
+    <img class="rounded-full border-4" src={member.photo} alt={member.name}>
+    <p class="text-center text-3xl">{member.name}</p>
+    <p class="text-center text-lg"> {member.function}</p>
+    <p class="">{member.description}</p>
   </div>
 
 {/each}
