@@ -2,7 +2,7 @@
 export const members = [
     {
       name: 'Dobbie',
-      description: "Hello! I'm Dobbie. I like progaming, and playing Minecraft. And I am the founder of Article Hydro HQ!" '',
+      description: "Hello! I'm Dobbie. I like progaming, and playing Minecraft. And I am the founder of Article Hydro HQ!" ,
       function: 'founder',
       photo: 'https://cdn.discordapp.com/avatars/820255805257023498/74d5106b0e3be86c8abcd3e6dbbfd34e.webp?size=512'
     },
