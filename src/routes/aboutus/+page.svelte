@@ -12,16 +12,16 @@
     </div>
     {/each}
   </div>-->
-<div class="flex row gap-8 flex-wrap ">
+<div class="flex gap-8 basis-64  ">
 {#each members as member }
   <div class=" rounded-md border-4 text-center ">
 
-    <div class="justify-center">
+    <div>
       <img class="rounded-full border-4 place-self-center" src={member.photo} alt={member.name}>
     </div>
     <p class="text-center text-5xl">{member.name}</p>
     <p class="text-center text-3xl"> {member.function}</p>
-
+    <p class="text-center ">{member.description}</p>
   </div>
 
 {/each}
