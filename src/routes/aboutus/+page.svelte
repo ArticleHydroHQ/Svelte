@@ -1,8 +1,9 @@
 <script>
-    import { members } from './members.js';
+    import Navbar from '../navbar.svelte';
+import { members } from './members.js';
   </script>
-  
-  <h1 class="text-3xl font-bold mb-6">About Us</h1>
+  <Navbar></Navbar>
+  <h1 class="text-3xl font-bold mb-6 text-center">About Us</h1>
   
 
 <div class="flex gap-8 basis-64 flex-wrap ">
