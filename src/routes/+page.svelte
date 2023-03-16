@@ -1,5 +1,6 @@
 <script>
     import Icon from "$lib/assets/logo.png"
+  import Navbar from "./navbar.svelte";
  </script>
 <div class="grid w-screen h-screen">
     <div class="grid grid-cols-2 gap-4">
@@ -54,3 +55,4 @@
 
     </div>
 </div>
+<Navbar></Navbar>

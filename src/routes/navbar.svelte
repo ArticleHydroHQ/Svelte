@@ -1,4 +1,12 @@
-<!-- Navbar.svelte -->
+<script>
+    import { onMount } from 'svelte';
+  import { get } from 'svelte/store';
+  let name;
+
+onMount(() => {
+  name = get(info)?.name;
+});
+</script>
 <nav class="flex items-center justify-between bg-gray-900 text-white py-4 px-8">
     <ul class="flex">
         <li class="mr-6">
@@ -13,7 +21,7 @@
       <li class="mr-6">
         <a href="/articels" class="hover:bg-gray-700 px-3 py-2 rounded-md">Article's</a>
       </li>
-      
+
     </ul>
   </nav>
   
