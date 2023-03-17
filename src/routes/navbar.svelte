@@ -1,6 +1,6 @@
 <!--if you use this you NEED THE INFO.JS WHERE EVER YOU NEED IT! CHECK FOR ERRORS!-->
 <script>
-  import { info } from './info.js';
+
   let currentPlace = info[0];
 </script>
 
