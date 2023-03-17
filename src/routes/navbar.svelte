@@ -13,10 +13,10 @@
       <a href="/" class="hover:bg-gray-700 px-3 py-2 rounded-md">home</a>
     </li>
     <li class="mr-6">
-      <a href="aboutus" class="hover:bg-gray-700 px-3 py-2 rounded-md">about us</a>
+      <a href="../../aboutus" class="hover:bg-gray-700 px-3 py-2 rounded-md">about us</a>
     </li>
     <li class="mr-6">
-      <a href="articels" class="hover:bg-gray-700 px-3 py-2 rounded-md">article </a>
+      <a href="../../articels" class="hover:bg-gray-700 px-3 py-2 rounded-md">article </a>
     </li>
 
     <li class="mr-6 text-right border-l-indigo-100">you are looking at {currentPlace.name}</li>
