@@ -20,7 +20,7 @@
     </li>
 
     <li class="mr-6 text-right border-l-indigo-100">you are looking at {currentPlace.name}</li>
-    <li class="mr-6" >writen by {currentPlace.writer}</li>
+    <li class="mr-6" >written by {currentPlace.writer}</li>
 
   </ul>
 </nav>
