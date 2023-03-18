@@ -1,8 +1,9 @@
 <script>
     import Navbar from '../navbar.svelte';
 import { members } from './members.js';
+var infopath = "../aboutus/info.js";
   </script>
-  <Navbar></Navbar>
+  <Navbar {infopath}></Navbar>
   <h1 class="text-3xl font-bold mb-6 text-center">About Us</h1>
   
 

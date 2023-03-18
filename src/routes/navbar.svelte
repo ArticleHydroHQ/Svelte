@@ -1,7 +1,9 @@
 <!--if you use this you NEED THE INFO.JS WHERE EVER YOU NEED IT! CHECK FOR ERRORS!-->
 <script>
 
-  let currentPlace = info[0];
+
+
+
 </script>
 
 <nav class="flex items-center  bg-gray-800 text-white py-4 px-8">
@@ -19,8 +21,8 @@
       <a href="../../articels" class="hover:bg-gray-700 px-3 py-2 rounded-md">article </a>
     </li>
 
-    <li class="mr-6 text-right border-l-indigo-100">you are looking at {currentPlace.name}</li>
-    <li class="mr-6" >written by {currentPlace.writer}</li>
+    <li class="mr-6 text-right border-l-indigo-100">you are looking at </li>
+    <li class="mr-6" >written by </li>
 
   </ul>
 </nav>
