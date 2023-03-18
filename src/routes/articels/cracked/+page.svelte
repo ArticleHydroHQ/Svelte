@@ -4,8 +4,13 @@ import Navbar from '../../navbar.svelte';
   </script>
   <Navbar></Navbar>
 <div class="flex"> 
+  <div class="w-2/12 ">
+    <div class="border-2 border-stone-500">
+      <p class="text-xl">Writen by {info[0].writer} <br><br> Name of the article: {info[0].name}</p>
+    </div>
+  </div>
   <div class="w-1/12"></div>
-  <div class="w-10/12">
+  <div class="w-8/12">
     <h1 class="text-center text-4xl">{info[0].name}</h1>
     <p>Cracked, or officially known as online-mode in minecraft server.properties is a setting that allows players to join a server without being checked against the Mojang authentication servers. This can also be used to allow cracked players to join the game.<br><br> </p>
     <p class="font-bold text-xl">There is no premium minecraft. This would imply the existence of a free version, which Mojang does not offer. ALWAYS buy the game and do not use illegal, pirated launchers such as TLauncher.<br><br></p>
@@ -18,5 +23,5 @@ import Navbar from '../../navbar.svelte';
     <p class="text-center text-2xl font-extrabold">But i have no money!111!1!!</p>
     <p>Get a job, or ask your parents to buy you minecraft as a birthday or christmas gift. This is not an excuse to pirate Minecraft, or any game for that matter. While pirating won’t get you arrested, it remains illegal.</p>
   </div>
-  <div class="w-1/12"></div>
+<div class="w-1/12"></div>
 </div>

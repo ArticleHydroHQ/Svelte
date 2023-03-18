@@ -1,6 +1,6 @@
 export const info = [
     {
-        name: "d",
+        name: "Cracked",
         writer: "Dobbie"
     }
 ]
