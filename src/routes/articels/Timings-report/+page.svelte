@@ -20,9 +20,9 @@
         </ul>
         <h2 class="leading-7"><br>Server softwares that <i>don't</i> include timings</h2>
         <ul class="list-disc">
-            <li><a class="text-cyan-600" href="https://github.com/Bloom-host/Petal">Petal</a>(Includes spark instead, development seems to be dead)</li>
-            <li><a class="text-cyan-600" href="https://purpurmc.org">Purpur</a>(Includes spark instead)</li>
-            <li><a class="text-cyan-600" href="https://bukkit.org">Bukkit</a>(Outdated and insecure, use <a href="https://papermc.io">Paper</a>instead)</li>
+            <li><a class="text-cyan-600" href="https://github.com/Bloom-host/Petal">Petal</a> (Includes spark instead, development seems to be dead)</li>
+            <li><a class="text-cyan-600" href="https://purpurmc.org">Purpur</a> (Includes spark instead)</li>
+            <li><a class="text-cyan-600" href="https://bukkit.org">Bukkit</a> (Outdated and insecure, use <a href="https://papermc.io">Paper</a>instead)</li>
         </ul>
         <h2><br>How to get a timings report</h2>
         <p>Turn on the server join as an OP then run <code >/timings on</code>
