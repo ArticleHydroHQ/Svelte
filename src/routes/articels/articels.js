@@ -4,5 +4,10 @@ export const articles = [
         writer: "Dobbie",
         link: "articels/cracked"
     },
+    {
+        name: "Timings report",
+        writer: "Soapy",
+        link: "articels/Timings-report"
+    },
 
 ]
