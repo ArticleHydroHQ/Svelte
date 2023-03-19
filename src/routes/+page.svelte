@@ -40,16 +40,16 @@
     <div class="grid grid-cols-5 gap-4 text-center">
         <div></div>
         <div>
-            <div class="bg-green-500 rounded-md border-2 hover:border-4 border-blue-900">
-                <a href='/articels'>
+            <a href='/articels'>
+                <div class="bg-green-500 rounded-md border-2 hover:border-4 border-blue-900">
                     <button class="color-gold-100">Go to Article's</button>
-                </a>
-            </div>
+                </div>
+            </a>
         </div>
         <div></div>
         <div>
             
-            <p>bt-1</p>
+            <p>comming soon!</p>
         </div>
         <div></div>
 
