@@ -1,10 +1,24 @@
 @tailwind base;
+
+@layer base {
+    h1 {
+      @apply text-2xl;
+    }
+    h2 {
+      @apply text-xl;
+    }
+    h3 {
+      @apply text-lg;
+    }
+
+  }
+  
 @tailwind components;
 @tailwind utilities;
 /*you can ignore those tailwind errors*/
 body{
-    background-color: black;
+    background-color: rgb(0, 0, 0);
 }
 p,h1 ,h2 ,h3 ,h4 ,h5, li, button, a{
-color: white;
+color: rgb(255, 255, 255);
 }
