@@ -2,17 +2,17 @@ export const articles = [
     {
         name: "cracked",
         writer: "Josh",
-        link: "articels/cracked"
+        link: "articles/cracked"
     },
     {
         name: "Timings report",
         writer: "Soapy",
-        link: "articels/Timings-report"
+        link: "articles/Timings-report"
     },
     {
         name: "Hacking",
         writer: "Soapy",
-        link: "articels/hacking"
+        link: "articles/hacking"
     },
 
 ]
