@@ -1,6 +1,6 @@
 <script>
   import Navbar from "../navbar.svelte";
-  import { articles } from "./articels";
+  import { articles } from "./articles";
 </script>
 
   <Navbar></Navbar>

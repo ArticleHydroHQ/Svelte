@@ -18,7 +18,7 @@
       <a href="../../aboutus" class="hover:bg-gray-700 px-3 py-2 rounded-md">about us</a>
     </li>
     <li class="mr-6">
-      <a href="../../articels" class="hover:bg-gray-700 px-3 py-2 rounded-md">article </a>
+      <a href="../../articles" class="hover:bg-gray-700 px-3 py-2 rounded-md">article </a>
     </li>
   </ul>
 </nav>

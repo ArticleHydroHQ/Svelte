@@ -33,7 +33,7 @@
         <h2><br>Ways of preventing account stealing</h2>
         <ul class="list-disc list-inside">
           <li>Disable cracked (preferred)</li>
-          <li>A login plugin, not recommended because some contain security issues, and offline mode has other issues linked <a class="text-cyan-600" href="articels/cracked">here</a></li>
+          <li>A login plugin, not recommended because some contain security issues, and offline mode has other issues linked <a class="text-cyan-600" href="articles/cracked">here</a></li>
         </ul>
       </div>
 
