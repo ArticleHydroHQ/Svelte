@@ -19,7 +19,7 @@ import Navbar from '../../navbar.svelte';
     <p class="text-center text-2xl">Username exploiting</p>
     <p>When using cracked, accounts are not authenticated by Mojang's servers. This essentially means that acccount data is solely tied to usernames. This allows for people to log in with any username, thus receiving all the data tied to that username. Bought accounts can also be affected by this. <i> This can be prevented by installing authentication plugins like LoginSecurity. <i><br><br></p>
     <p class="text-center text-2xl">Bot Raids</p>
-    <p> Not to be confused with DdoS-attacks, bot raids are a serious issue on cracked servers lately. A bot raid causes many bots to join your server, possibly overloading it and filling up storage with unnecessary playerdata. You cannot prevent this in cracked servers, just disable cracked and buy the game.<br><br></p>
+    <p> Not to be confused with DDoS-attacks, bot raids are a serious issue on cracked servers lately. A bot raid causes many bots to join your server, possibly overloading it and filling up storage with unnecessary playerdata. You cannot prevent this in cracked servers, just disable cracked and buy the game.<br><br></p>
     <p class="text-center text-2xl font-extrabold">But i have no money!111!1!!</p>
     <p>Get a job, or ask your parents to buy you minecraft as a birthday or christmas gift. This is not an excuse to pirate Minecraft, or any game for that matter. While pirating won’t get you arrested, it remains illegal.</p>
   </div>
