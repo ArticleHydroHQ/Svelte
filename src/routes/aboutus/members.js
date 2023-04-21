@@ -23,10 +23,10 @@ export const members = [
     },
     {
       name: 'Robeus',
-      description:"asjdfaslkdfjlkas",
+      description:"I'm 16 and I'm studying IT & Telecommunications",
       function: 'Article Writer',
       photo: 'https://cdn.discordapp.com/avatars/715898328973574185/39534bc8614a243cab57dd5a51d9c97a.webp?size=512',
-      color: 'border-sky-500'
+      color: 'border-green-500'
     },
   ];
   
