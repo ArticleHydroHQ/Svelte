@@ -11,14 +11,14 @@ export const members = [
       name: 'Josh',
       description: "Hey, I'm Josh. Software Developer&owner @ Blue Atomic, and developer /article writer at AHHQ.",
       function: 'Article writer and Devolper',
-      photo: 'https://cdn.discordapp.com/avatars/839237573595365406/b1107ca4a66f957426ea20aed69a7249.webp?size=512',
+      photo: 'https://cdn.discordapp.com/avatars/839237573595365406/ebf7daa7c9681b16bb029d8cd08e9107.webp?size=512',
       color: 'border-green-600'
     },
     {
       name: 'Soapy7261',
       description:"Hey! I'm Soapy7261. Most people call me Soapy, I make discord bots and write articles at AHHQ, among other sideprojects I do",
       function: 'Article Writer',
-      photo: 'https://cdn.discordapp.com/avatars/513072262409355274/a_7a69967b586851f3ee7ce53bf80835ac.gif?size=256',
+      photo: 'https://cdn.discordapp.com/avatars/513072262409355274/a_189e16307c4cd7dee663865208f13e7c.gif',
       color: 'border-sky-500'
     },
     {
