@@ -21,6 +21,12 @@ export const members = [
       photo: 'https://cdn.discordapp.com/avatars/513072262409355274/a_7a69967b586851f3ee7ce53bf80835ac.gif?size=256',
       color: 'border-sky-500'
     },
-
+    {
+      name: 'Robeus',
+      description:"Hey! I'm Soapy7261. Most people call me Soapy, I make discord bots and write articles at AHHQ, among other sideprojects I do",
+      function: 'Article Writer',
+      photo: 'https://cdn.discordapp.com/avatars/715898328973574185/39534bc8614a243cab57dd5a51d9c97a.webp?size=512',
+      color: 'border-sky-500'
+    },
   ];
   
