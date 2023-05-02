@@ -14,5 +14,10 @@ export const articles = [
         writer: "Soapy",
         link: "articles/hacking"
     },
+    {
+        name: "plugins",
+        writer: "Robeus",
+        link: "articles/plugins"
+    },
 
 ]
